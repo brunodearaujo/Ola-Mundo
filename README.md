@@ -9,4 +9,3 @@ Repositório criado durante uma aula ao vivo de Git e Github.
 - [x] Aprender Markdown.
 - [x] Usar Visual Studio Code para fazer alterações.
 - [] Finalizar o curso.
----
