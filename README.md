@@ -1,7 +1,7 @@
 # Olá, Mundo!
- Primeiro repositório criado no GitHub Desktop.
+ # **Primeiro repositório criado no GitHub Desktop.**
 
-Repositório criado durante uma aula ao vivo de Git e Github.
+ ## **Repositório criado durante uma aula ao vivo de Git e Github.**
 ---
 # Lista de Tarefas
 - [x] Ter um perfil no Github.
