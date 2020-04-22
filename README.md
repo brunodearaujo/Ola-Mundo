@@ -3,4 +3,8 @@
 
 Repositório criado durante uma aula ao vivo de Git e Github.
 
-* Aprendendo a fazer alterações no desktop e no site.
+- [x] Ter um perfil no Github.
+- [x] Aprender a fazer alterações do desktop pro site.
+- [x] Aprender Markdown.
+- [x] Usar Visual Studio Code para fazer alterações.
+- [] Finalizar o curso.
