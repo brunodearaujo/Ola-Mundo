@@ -8,4 +8,4 @@
 - [x] Aprender a fazer alterações do desktop pro site.
 - [x] Aprender Markdown.
 - [x] Usar Visual Studio Code para fazer alterações.
-- [ ] Finalizar o curso.
+- [x] Finalizar o curso.
